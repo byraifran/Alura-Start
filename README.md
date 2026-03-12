@@ -1,4 +1,5 @@
 <img src="https://github.com/byraifran/Alura-Start/blob/main/preview.png" align="center">
+
 # Alura Start - Transformação Digital na Educação
 Este projeto é uma Landing Page responsiva desenvolvida para a Alura Start, focada em oferecer soluções de ensino de programação e pensamento computacional para escolas da educação básica, alinhadas às diretrizes da BNCC.
 
